@@ -3,7 +3,7 @@
 게시일: 2026-07-01
 [![New 자막 지우개 기능!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/era.jpg)](https://youtu.be/2nuKhC9RACU)
 [위 이미지 클릭하여 확인!]
-<br>
+<br><br>
 [![타입캐스트 20만 무료 크레딧 받기!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/tacax4.jpg)](https://www.tubelens.kr/liteplan20/)
 [위 이미지 클릭하여 확인!]
 
