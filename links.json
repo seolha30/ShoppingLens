@@ -1,0 +1,18 @@
+{
+  "_readme": "쇼핑렌즈 설정 탭의 '키 받는 법' 버튼들이 이 파일을 읽어 최신 주소로 엽니다. 이 파일을 GitHub 저장소(seolha30/ShoppingLens)의 main 브랜치 맨 위에 올리면, 프로그램을 다시 배포하지 않아도 아래 주소만 바꿔 사용자 전원에게 새 영상/페이지를 보여줄 수 있습니다. 값만 바꾸고 키 이름(왼쪽)은 그대로 두세요.",
+
+  "api_tutorial_url": "https://youtu.be/AYdlnTbnYM4",
+  "_api_tutorial_url_설명": "제미나이(구글 AI 스튜디오) 키 받는 법 — 설정 탭 '제미나이 키 받는 법' 버튼",
+
+  "vertex_tutorial_url": "https://console.cloud.google.com/iam-admin/serviceaccounts",
+  "_vertex_tutorial_url_설명": "버텍스 AI 키 받는 법 — 설정 탭에서 버텍스 모드일 때 '버텍스 키 받는 방법' 버튼",
+
+  "youtube_tutorial_url": "https://youtu.be/BVzkvvcNvbE",
+  "_youtube_tutorial_url_설명": "유튜브 API 키 받는 법 — 설정 탭 '유튜브 키 받는 법' 버튼",
+
+  "elevenlabs_tutorial_url": "https://elevenlabs.io/app/developers/api-keys",
+  "_elevenlabs_tutorial_url_설명": "일레븐랩스 키 받는 법 — 설정 탭 '11Labs 키 받는 법' 버튼",
+
+  "typecast_tutorial_url": "https://typecast.ai/developers/api/api-key",
+  "_typecast_tutorial_url_설명": "타입캐스트 키 받는 법 — 설정 탭 '타입캐스트 키 받는 법' 버튼"
+}
