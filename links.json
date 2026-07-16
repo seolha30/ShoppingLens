@@ -14,5 +14,11 @@
   "_elevenlabs_tutorial_url_설명": "일레븐랩스 키 받는 법 — 설정 탭 '11Labs 키 받는 법' 버튼",
 
   "typecast_tutorial_url": "https://typecast.ai/developers/api/api-key",
-  "_typecast_tutorial_url_설명": "타입캐스트 키 받는 법 — 설정 탭 '타입캐스트 키 받는 법' 버튼"
+  "_typecast_tutorial_url_설명": "타입캐스트 키 받는 법 — 설정 탭 '타입캐스트 키 받는 법' 버튼",
+
+  "buffer_tutorial_url": "https://youtu.be/H_alXg-0if4",
+  "_buffer_tutorial_url_설명": "Buffer 키 받는 법 — 설정 탭 '버퍼 키 받는 법' 버튼",
+
+  "coupang_tutorial_url": "https://youtu.be/MTrl4cU6Pp4",
+  "_coupang_tutorial_url_설명": "쿠팡 파트너스 키 받는 법 — 설정 탭 '쿠팡 키 받는 법' 버튼"
 }
