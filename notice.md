@@ -1,7 +1,7 @@
 # ShoppingLens 공지사항
 게시일: 2026-07-09
 ## 쇼핑렌즈 1.1.9 업데이트
-[![쇼렌 AI 효과음!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/aief.jpg)](https://youtu.be/-mlbtPWpLP0)
+[![쇼렌 AI 효과음!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/shoai.jpg)](https://youtu.be/6nu6UzdTjZM)
 [위 이미지 클릭하여 확인!]
 
 [![썸네일 기능!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/thumb.jpg)](https://youtu.be/56W9z6v4E2E)
