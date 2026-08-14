@@ -1,6 +1,9 @@
 # ShoppingLens 공지사항
-게시일: 2026-08-10
-## 쇼핑렌즈 1.3.6 업데이트
+게시일: 2026-08-15
+## 쇼핑렌즈 1.4.0 업데이트
+[![썸네일 AI 문구!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/thumsub.jpg)](https://youtu.be/ZeC24bh2VNY)
+[위 이미지 클릭하여 확인!]
+
 [![버텍스 API 및 $300 크레딧 받기!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/vertex2.jpg)](https://youtu.be/x4kTl5yuTMY)
 [위 이미지 클릭하여 확인!]
 
