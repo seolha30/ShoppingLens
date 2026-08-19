@@ -1,7 +1,10 @@
 # ShoppingLens 공지사항
-게시일: 2026-08-18
-## 쇼핑렌즈 1.4.4 업데이트
-[![썸네일 AI 문구!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/mysound.jpg)](https://youtu.be/WZit5vJ9E0M)
+게시일: 2026-08-20
+## 쇼핑렌즈 1.4.5 업데이트
+[![스레드와 X추가!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/thx.jpg)](https://youtu.be/5HS2iejtPuQ)
+[위 이미지 클릭하여 확인!]
+
+[![내 효과음 넣기!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/mysound.jpg)](https://youtu.be/WZit5vJ9E0M)
 [위 이미지 클릭하여 확인!]
 
 [![썸네일 AI 문구!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/thumsub.jpg)](https://youtu.be/ZeC24bh2VNY)
