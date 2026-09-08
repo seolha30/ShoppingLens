@@ -1,5 +1,9 @@
 # ShoppingLens 공지사항
-게시일: 2026-09-05
+게시일: 2026-09-08
+## 쇼핑렌즈 1.5.1 업데이트
+[![1.5.1업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.5.1.jpg)](https://youtu.be/SLCgDOwJ7AY)
+[위 이미지 클릭하여 확인!]
+
 ## 쇼핑렌즈 1.5.0 업데이트
 [![구매링크영상!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/longlong.jpg)](https://youtu.be/9BXuzw_Y8pE)
 [위 이미지 클릭하여 확인!]
