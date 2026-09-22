@@ -1,5 +1,9 @@
 # ShoppingLens 공지사항
-게시일: 2026-09-18
+게시일: 2026-09-23
+## 쇼핑렌즈 1.5.4 업데이트
+[![1.5.4업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/ttal1.5.4.jpg)](https://youtu.be/-4weoNMd6jM)
+[위 이미지 클릭하여 확인!]
+
 ## 쇼핑렌즈 1.5.3 업데이트
 [![1.5.3업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/tacacl.jpg)](https://youtu.be/oOR0oirE3s8)
 [위 이미지 클릭하여 확인!]
@@ -18,24 +22,6 @@
 
 ## 쇼핑렌즈 1.4.9 업데이트
 [![챗봇강화 업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/chatup.jpg)](https://youtu.be/2h7ZD5xJ1y8)
-[위 이미지 클릭하여 확인!]
-
-## 쇼핑렌즈 1.4.8 업데이트
-[![1.4.7업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.4.7.jpg)](https://youtu.be/SH0Dclxvbu0)
-[위 이미지 클릭하여 확인!]
-
-## 쇼핑렌즈 1.4.6 업데이트
-[![업로드 전 AI검수!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/aich.jpg)](https://youtu.be/m1oX5NB0ycE)
-[위 이미지 클릭하여 확인!]
-
-## 쇼핑렌즈 1.4.5 업데이트
-[![스레드와 X추가!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/thx.jpg)](https://youtu.be/5HS2iejtPuQ)
-[위 이미지 클릭하여 확인!]
-
-[![내 효과음 넣기!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/mysound.jpg)](https://youtu.be/WZit5vJ9E0M)
-[위 이미지 클릭하여 확인!]
-
-[![썸네일 AI 문구!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/thumsub.jpg)](https://youtu.be/ZeC24bh2VNY)
 [위 이미지 클릭하여 확인!]
 
 [![버텍스 API 및 $300 크레딧 받기!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/vertex2.jpg)](https://youtu.be/x4kTl5yuTMY)
