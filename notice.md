@@ -1,6 +1,6 @@
 # ShoppingLens 공지사항
 게시일: 2026-10-27
-## 쇼핑렌즈 1.6.2 업데이트
+## 쇼핑렌즈 1.6.2 업데이트(~1.6.3)
 [![1.6.2업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.6.2.jpg)](https://youtu.be/Y_sk_K-Hp5c)
 [위 이미지 클릭하여 확인!]
 
