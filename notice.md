@@ -1,7 +1,7 @@
 # ShoppingLens 공지사항
 게시일: 2026-11-20
 ## 쇼핑렌즈 1.6.4
-[![1.6.4업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.6.4.jpg)](https://youtu.be/Y_sk_K-Hp5c)
+[![1.6.4업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.6.4.jpg)](https://youtu.be/A__9pZAEfSY)
 [위 이미지 클릭하여 확인!]
 
 ## 쇼핑렌즈 1.6.2 업데이트(~1.6.3)
