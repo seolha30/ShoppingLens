@@ -1,12 +1,12 @@
 # ShoppingLens 공지사항
-게시일: 2026-10-27
+게시일: 2026-11-20
+## 쇼핑렌즈 1.6.4
+[![1.6.4업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.6.4.jpg)](https://youtu.be/Y_sk_K-Hp5c)
+[위 이미지 클릭하여 확인!]
+
 ## 쇼핑렌즈 1.6.2 업데이트(~1.6.3)
 [![1.6.2업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.6.2.jpg)](https://youtu.be/Y_sk_K-Hp5c)
 [위 이미지 클릭하여 확인!]
-
-## 쇼핑렌즈 1.6.0 업데이트
-- Vmake 자막제거 시간 오류 수정
-- 자막제거 후 원본반영 버그 수정
 
 ## 쇼핑렌즈 1.5.6~1.5.9 업데이트
 [![1.5.8업데이트!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/1.5.8.jpg)](https://youtu.be/-Hq_yLbeQvI)
