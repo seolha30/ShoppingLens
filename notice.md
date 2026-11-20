@@ -33,7 +33,7 @@
 [위 이미지 클릭하여 확인!]
 
 ## 쇼핑렌즈 1.5.0 업데이트
-[![구매링크영상!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/longlong.jpg)](https://youtu.be/9BXuzw_Y8pE)
+[![구매링크영상!](https://raw.githubusercontent.com/seolha30/Tubelens/refs/heads/main/longlong.jpg)](https://youtu.be/A__9pZAEfSY)
 [위 이미지 클릭하여 확인!]
 
 ## 쇼핑렌즈 1.4.9 업데이트
